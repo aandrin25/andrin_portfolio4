@@ -1,3 +1,4 @@
 ---
-title: Recents Article
+author: John Doe
+title: Blog
 ---
